@@ -1,0 +1,3 @@
+15;Mahefa;Rajaonah;18;H;O+;maladie mental;aucun
+123;Liva;Rajaonah;21;F;A+;Fo;Pas de solution
+19;Manoa;Rajaonah;18;H;O-;bogosy;vevavy
